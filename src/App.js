@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload part 2 and best and zadolbal blin.
+          Edit <code>src/App.js</code> and save to reload part 2 and best and zadolbal blin dva raza.
 
 
           
